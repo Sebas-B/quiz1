@@ -1,0 +1,37 @@
+body{
+  padding: 20px;
+  position: absolute;
+  background: lightblue;
+}
+.right{
+  background: palegreen;
+}
+
+.wrong{
+ background: salmon;
+}
+
+.container{
+  display: none;
+  top: 40px; left: 440px;
+}
+
+.btnIniciar{
+  position: absolute;
+  text-align: center;
+  top: 40px; left: 440px;
+  font-family:courier,arial,helvética;
+  color: black;
+}
+
+p{
+  font-size:50px;
+  color: black;
+  font-family:courier,arial,helvética;
+}
+
+span{
+  font-size:50px;
+  color: black;
+  font-family:courier,arial,helvética;
+}
